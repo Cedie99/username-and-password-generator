@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-size: 40px;
+    font-size: 30px;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -12,8 +12,9 @@ body {
 }
 
 .container {
+    
     background-color: black;
-    width: 500px;
+    width: 300px;
     margin: auto;
     margin-top: 100px;
     padding: 35px;
@@ -26,40 +27,42 @@ body {
 }
 
 p{
-    font-size: 20px;
+    font-size: 18px;
     margin: 10px;
 }
 
 #password {
-    padding: 10px;
+    
+    padding: 8px;
     width: 100%;
     box-sizing: border-box;
     background-color: white;
     color: black;
-    font-size: 30px;
-    margin: 10px;
+    font-size: 18px;
+    margin: 8px;
     text-align: center;
 }
 
 #username {
-    padding: 10px;
+    padding: 8px;
     width: 100%;
     box-sizing: border-box;
     background-color: white;
     color: black;
-    font-size: 30px;
-    margin: 10px;
+    font-size: 18px;
+    margin: 8px;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 
 button {
+    
     background-color: green;
-    padding: 10px;
+    padding: 8px;
     width: 100%;
     color: white;
-    font-size: 20px;
-    margin: 10px;
+    font-size: 18px;
+    margin: 8px;
     cursor: pointer;
 }
 
